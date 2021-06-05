@@ -2,7 +2,7 @@
 8085 Programs made for Computer Organization and Architecture Laboratory. \
 Made and Tested on GNUSim8085 v1.4.1 
 
-List of Programs: \
+List of Programs: 
 1. Write a program to perform : 
     - Addition of two 8 bit numbers without carry. 
     - Addition of two 8 bit numbers with carry. 
