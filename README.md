@@ -4,11 +4,11 @@ Made and Tested on GNUSim8085 v1.4.1
 
 List of Programs: \
 1 Write a program to perform : \
-	- Addition of two 8 bit numbers without carry. \
-	- Addition of two 8 bit numbers with carry. \
+- Addition of two 8 bit numbers without carry. \
+- Addition of two 8 bit numbers with carry. \
 2 Write a program to perform: \
-	- Subtraction of two 8 bit numbers without borrows. \
-	- Subtraction of two 8 bit numbers with borrows. \
+- Subtraction of two 8 bit numbers without borrows. \
+- Subtraction of two 8 bit numbers with borrows. \
 3 Write a program to find 1‘s complement of an 8 bit number. \
 4 Write a program to find 2‘s complement of an 8 bit number. \
 5 Write a program to perform Multiplication of two 8 bit numbers. \
